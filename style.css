@@ -1,0 +1,43 @@
+table{
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+
+button{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 15px 30px;
+    
+}
+
+.vertical{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horizontal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.box{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+}
+
+.wrapper{
+    margin-top: 20px;
+    text-align: center;
+}
+
